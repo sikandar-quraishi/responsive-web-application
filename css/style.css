@@ -140,26 +140,26 @@ h1 {
 
 /*SERVIECES*/
 
-.Services {
+.services {
   padding: 80px 0 80px;
   text-align: center;
 }
 
-.Services h2,
-.Services h4
+.services h2,
+.services h4
 {
   color: #4c4c4c;
   margin: 20px 0 20px;
 }
 
-.Services p{
+.services p{
   color: #737373;
   font-size: 14px;
   padding-bottom: 40px;
   text-align: center;
 }
 
-.Services i {
+.services i {
   height: 80px;
   width:  80px;
   font-size: 30px;
@@ -174,7 +174,7 @@ h1 {
 
 @media(max-width: 768px) {
 
- .Servies  {
+ .servies  {
   padding: 30px;
   margin: 20px 30px 0 10px;
  }
